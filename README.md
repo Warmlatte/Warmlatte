@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! This is Latte ☕✨
+<h1 align="center">Hi there 👋 This is Latte ☕✨
 </h1>
 <h3 align="center">Welcome to my cozy GitHub corner! 🎉</h3>
 
@@ -11,6 +11,7 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
  <img src="https://i.pinimg.com/originals/68/b2/b0/68b2b06c405ed6ae9574110150cca312.gif">   
 </div>
 
+
 <h3>
     🌟 About Me
 </h3>
@@ -19,8 +20,10 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
 <ul>
     <li>Frontend Frameworks: Vue.js</li>
     <li>Static Site Generators: Hugo</li>
-    <li>Development Tools: Git, Naive UI</li>
+    <li>Development Tools: Git, Naive UI, Tailwind CSS</li>
     <li>Backend Services: Firebase</li>
+    <li>Backend Frameworks: Node.js, Express.js</li>
+    <li>Database Management: MySQL,Prisma</li>
 </ul>
 
 <h4> 🛠️ Skills </h4>
@@ -80,22 +83,10 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
 </p>
 
 
-
-<!-- <p align="left">
-<a href="www.linkedin.com/in/zhi-yan-huang-19a024331" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhi-yan,huang" height="30" width="40" />
-</a>
-    
-<a href="https://www.leetcode.com/warmlatte" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="warmlatte" height="30" width="40" />
-</a>
-<a href="https://discord.gg/CKUXRD2m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="850078994363711508" height="30" width="40" /></a>
-</p> -->
-
 <h3>
     🎉 Fun Fact
 </h3>
-<p>
+<p align="center">
     ✨ I believe cats are treasures of the world! I hope one day my code can be as soothing as cats are to the soul~ (≧∀≦)ゞ
 </p>
 
@@ -105,13 +96,13 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
 ---
 
 
-<h1 align="center">嗨！這裡是拿鐵 ☕✨
+<h1 align="center">嗨 👋 這裡是拿鐵 ☕✨
 </h1>
 
 <h3 align="center">歡迎來到我溫暖的 GitHub 小天地！🎉 🎉</h3>
 
 
-<p align="center">
+<p>
     我是 Latte，一位熱愛探索新奇事物的 <strong>全端開發初學者</strong>，目前正努力學習與成長，希望能透過程式設計帶來更多創意與美好！💡
 </p>
 
@@ -127,8 +118,10 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
 <ul>
     <li>前端框架：Vue.js</li>
     <li>靜態網站生成器：Hugo</li>
-    <li>開發工具：Git、Naive UI</li>
+    <li>開發工具：Git、Naive UI、Tailwind CSS</li>
     <li>後端服務：Firebase</li>
+    <li>後端框架：Node.js、Express.js</li>
+    <li>資料庫管理：MySQL、Prisma</li>
 </ul>
 
 <h4> 🛠️ 技能 </h4>
