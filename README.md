@@ -2,14 +2,14 @@
 </h1>
 <h3 align="center">Welcome to my cozy GitHub corner! 🎉</h3>
 
+
 <p align="center">
 I am Latte, <strong>a beginner full-stack developer</strong>  who loves exploring new things. I’m currently on my journey of learning and growing, hoping to bring more creativity and beauty through coding! 💡
 </p>
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/68/b2/b0/68b2b06c405ed6ae9574110150cca312.gif">
+ <img src="https://i.pinimg.com/originals/68/b2/b0/68b2b06c405ed6ae9574110150cca312.gif">   
 </div>
-
 
 <h3>
     🌟 About Me
@@ -33,10 +33,10 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
 <ul>
     <li> Gaming 🎮</li>
     <li> Playing with cats 🐾</li>
+    <li> TRPG 🎲</li>
 </ul>
 
 <h3> 💼 Projects </h3>
-
 <a href="https://warmlatte.github.io/Logic-Loom/">Logic Loom 🧠🕸️</a>
 
 <p>
@@ -73,8 +73,24 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
 <strong> 📫 Email: latte.0975582420@gmail.com</strong>
 </p>
 <p>
-<strong> 💼 LinkedIn: <a href="www.linkedin.com/in/zhi-yan-huang-19a024331">Zhi-Yan,Huang</a></strong>
+<strong> 💼 LinkedIn: Zhi-Yan,Huang
 </p>
+<p>
+    👾 Discord: <a href="https://discord.gg/CKUXRD2m">Latte ☕ && Cat 🐈</a>
+</p>
+
+
+
+<!-- <p align="left">
+<a href="www.linkedin.com/in/zhi-yan-huang-19a024331" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhi-yan,huang" height="30" width="40" />
+</a>
+    
+<a href="https://www.leetcode.com/warmlatte" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="warmlatte" height="30" width="40" />
+</a>
+<a href="https://discord.gg/CKUXRD2m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="850078994363711508" height="30" width="40" /></a>
+</p> -->
 
 <h3>
     🎉 Fun Fact
@@ -100,7 +116,7 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
 </p>
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/68/b2/b0/68b2b06c405ed6ae9574110150cca312.gif">
+ <img src="https://i.pinimg.com/originals/68/b2/b0/68b2b06c405ed6ae9574110150cca312.gif">   
 </div>
 
 <h3>
@@ -125,6 +141,7 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
 <ul>
     <li> 打電動 🎮</li>
     <li> 陪貓咪玩耍 🐾</li>
+    <li> TRPG 🎲</li>
 </ul>
 
 <h3> 💼 專案 </h3>
@@ -159,7 +176,10 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
 <strong> 📫 Email: latte.0975582420@gmail.com</strong>
 </p>
 <p>
-<strong> 💼 LinkedIn: <a href="www.linkedin.com/in/zhi-yan-huang-19a024331">Zhi-Yan,Huang</a></strong>
+<strong> 💼 LinkedIn: Zhi-Yan,Huang
+</p>
+<p>
+    👾 Discord: <a href="https://discord.gg/CKUXRD2m">Latte ☕ && Cat 🐈</a>
 </p>
 
 <h3>
