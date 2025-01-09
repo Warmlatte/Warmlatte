@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋 This is Latte ☕✨
+<h1 align="center">Hi there! This is Latte ☕✨
 </h1>
-<h3 align="center">Welcome to my cozy GitHub corner! 🎉</h3>
+<h3 align="center" style="font-size: 26px">Welcome to my cozy GitHub corner! 🎉</h3>
 
 
 <p align="center">
@@ -12,7 +12,7 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
 </div>
 
 
-<h3>
+<h3 style="font-size: 24px">
     🌟 About Me
 </h3>
 
@@ -39,8 +39,8 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
     <li> TRPG 🎲</li>
 </ul>
 
-<h3> 💼 Projects </h3>
-<a href="https://warmlatte.github.io/Logic-Loom/">Logic Loom 🧠🕸️</a>
+<h3 style="font-size: 24px"> 💼 Projects </h3>
+<a href="https://warmlatte.github.io/Logic-Loom/" style="font-size: 20px;"><strong>Logic Loom 🧠🕸️</strong></a>
 
 <p>
     (Traditional Chinese Only)
@@ -49,9 +49,10 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
     A space where I document my technical notes and development journey, including tutorials and hands-on content.
 </p>
 
-<a href="https://joitogether.com/home">Joitogether 🤝🌟</a>
-
-
+<a href="https://joitogether.com/home" style="font-size: 20px;"><strong>Joitogether 🤝🌟</strong></a>
+<p>
+    (Traditional Chinese Only)
+</p>
 <p>
    <strong>Joitogether</strong> is a platform designed to enhance user interaction online and participation in real-life events. It offers features such as a membership system, event creation and registration, profile showcasing, rating systems, discussion boards, and payment integration for a seamless user experience.
 </p>
@@ -66,12 +67,12 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
 
 
 
-<h3> 📊 GitHub Stats </h3>
+<h3 style="font-size: 24px"> 📊 GitHub Stats </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Warmlatte&show_icons=true&theme=radical&count_private=true" alt="Warmlatte's GitHub stats" />
 </p>
 
-<h3> 🌌 Let’s Connect </h3>
+<h3 style="font-size: 24px"> 🌌 Let’s Connect </h3>
 <p>
 <strong> 📫 Email: latte.0975582420@gmail.com</strong>
 </p>
@@ -83,7 +84,19 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
 </p>
 
 
-<h3>
+
+<!-- <p align="left">
+<a href="www.linkedin.com/in/zhi-yan-huang-19a024331" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhi-yan,huang" height="30" width="40" />
+</a>
+    
+<a href="https://www.leetcode.com/warmlatte" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="warmlatte" height="30" width="40" />
+</a>
+<a href="https://discord.gg/CKUXRD2m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="850078994363711508" height="30" width="40" /></a>
+</p> -->
+
+<h3 style="font-size: 24px">
     🎉 Fun Fact
 </h3>
 <p align="center">
@@ -96,13 +109,13 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
 ---
 
 
-<h1 align="center">嗨 👋 這裡是拿鐵 ☕✨
+<h1 align="center">嗨！這裡是拿鐵 ☕✨
 </h1>
 
-<h3 align="center">歡迎來到我溫暖的 GitHub 小天地！🎉 🎉</h3>
+<h3 align="center" style="font-size: 26px">歡迎來到我溫暖的 GitHub 小天地！🎉 🎉</h3>
 
 
-<p>
+<p align="center">
     我是 Latte，一位熱愛探索新奇事物的 <strong>全端開發初學者</strong>，目前正努力學習與成長，希望能透過程式設計帶來更多創意與美好！💡
 </p>
 
@@ -110,7 +123,7 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
  <img src="https://i.pinimg.com/originals/68/b2/b0/68b2b06c405ed6ae9574110150cca312.gif">   
 </div>
 
-<h3>
+<h3 style="font-size: 24px">
     🌟 關於我
 </h3>
 
@@ -137,9 +150,9 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
     <li> TRPG 🎲</li>
 </ul>
 
-<h3> 💼 專案 </h3>
+<h3 style="font-size: 24px"> 💼 專案 </h3>
 
-<a href="https://joitogether.com/home">Joitogether 🤝🌟</a>
+<a href="https://joitogether.com/home" style="font-size: 20px;">Joitogether 🤝🌟</a>
 
 <p>
     <strong>Joitogether</strong> 是一個專注於促進用戶線上互動與實體活動參與的揪團網站，提供會員系統、活動創建與報名功能、個人資料展示、評價系統、文章討論及金流整合，打造無縫的用戶體驗。
@@ -153,7 +166,7 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
     本專案採用 <strong>Vue.js</strong>、<strong>Express.js</strong>、<strong>Firebase 身份驗證</strong> 和 <strong>Prisma</strong>，後端部署於 <strong>Railway</strong>，確保穩定且可擴展的運行環境。
 </p>
 
-<a href="https://warmlatte.github.io/Logic-Loom/">Logic Loom 🧠🕸️</a>
+<a href="https://warmlatte.github.io/Logic-Loom/" style="font-size: 20px;">Logic Loom 🧠🕸️</a>
 
 <p>
     這是我的技術筆記與開發學習旅程，包含許多教學與實戰內容，期待你的加入！
@@ -164,7 +177,7 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
   <img src="https://github-readme-stats.vercel.app/api?username=Warmlatte&show_icons=true&theme=radical&count_private=true" alt="Warmlatte's GitHub stats" />
 </p>
 
-<h3> 🌌 聯繫我 </h3>
+<h3 style="font-size: 24px;"> 🌌 聯繫我 </h3>
 <p>
 <strong> 📫 Email: latte.0975582420@gmail.com</strong>
 </p>
@@ -175,7 +188,7 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
     👾 Discord: <a href="https://discord.gg/CKUXRD2m">Latte ☕ && Cat 🐈</a>
 </p>
 
-<h3>
+<h3 style="font-size: 24px;">
     🎉 Fun Fact
 </h3>
 <p>
