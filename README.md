@@ -7,6 +7,8 @@
 I am Latte, <strong>a beginner full-stack developer</strong>  who loves exploring new things. I’m currently on my journey of learning and growing, hoping to bring more creativity and beauty through coding! 💡
 </p>
 
+> Chinese version: [繁體中文](README_zh-TW.md)
+
 <div align="center">
  <img src="https://i.pinimg.com/originals/68/b2/b0/68b2b06c405ed6ae9574110150cca312.gif">   
 </div>
