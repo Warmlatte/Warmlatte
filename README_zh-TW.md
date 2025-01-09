@@ -6,7 +6,7 @@
     我是 Latte，一位熱愛探索新奇事物的 <strong>全端開發初學者</strong>，目前正努力學習與成長，希望能透過程式設計帶來更多創意與美好！💡
 </p>
 
-> English version：[English](README.md)
+> English Version：[English](README.md)
 
 
 <div align="center">
