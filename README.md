@@ -21,8 +21,8 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
 <h4> 🌱 Exploring and Refining </h4>
 <ul>
     <li>Frontend Frameworks: Vue.js</li>
-    <li>Static Site Generators: Hugo</li>
-    <li>Development Tools: Git, Naive UI, Tailwind CSS</li>
+    <li>Development Tools: Git, Tailwind CSS</li>
+    <li>UI Component: Naive UI、Daisy UI</li>
     <li>Backend Services: Firebase</li>
     <li>Backend Frameworks: Node.js, Express.js</li>
     <li>Database Management: MySQL,Prisma</li>
@@ -30,16 +30,31 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
 
 
 <h3 style="font-size: 24px"> 💼 Projects </h3>
+
+<a href="https://joitogether.com/home" style="font-size: 20px;"><strong>Joitogether 🤝🌟</strong></a>
+
+<p>
+   <strong>Joitogether</strong> is a platform that connects users online and at events, offering features like membership, event creation and registration, profiles, ratings, discussions, and payment integration.
+</p>
+
+
 <a href="https://warmlatte.github.io/Logic-Loom/" style="font-size: 20px;"><strong>Logic Loom 🧠🕸️</strong></a>
 
 <p>
     A space where I document my technical notes and development journey, including tutorials and hands-on content.
 </p>
 
-<a href="https://joitogether.com/home" style="font-size: 20px;"><strong>Joitogether 🤝🌟</strong></a>
+
+<a href="https://shadowmarket.up.railway.app/" style="font-size: 20px;"><strong>Shadow Market 🌑✨</strong></a>
 
 <p>
-   <strong>Joitogether</strong> is a platform that connects users online and at events, offering features like membership, event creation and registration, profiles, ratings, discussions, and payment integration.
+A <strong>mystical D&D black market</strong> for enchanted items, legendary artifacts, and rare potions. 🏹🔮 It offers an immersive shopping and management experience for adventurers.  
+</p>
+
+<a href="https://piramid.vercel.app/" style="font-size: 20px;"><strong>Piramid 🎨🖌️</strong></a>
+
+<p>
+    <strong>Piramid</strong> is a sleek one-page portfolio for artists. It showcases artwork, commission info, and personal details with smooth animations and a modern design.
 </p>
 
 
