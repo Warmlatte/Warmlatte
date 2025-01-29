@@ -19,8 +19,8 @@
 <h4> 🌱 正在精進中 </h4>
 <ul>
     <li>前端框架：Vue.js</li>
-    <li>靜態網站生成器：Hugo</li>
-    <li>開發工具：Git、Naive UI、Tailwind CSS</li>
+    <li>開發工具：Git、Tailwind CSS</li>
+    <li>UI 元件庫：Naive UI、Daisy UI</li>
     <li>後端服務：Firebase</li>
     <li>後端框架：Node.js、Express.js</li>
     <li>資料庫管理：MySQL、Prisma</li>
@@ -40,6 +40,19 @@
 
 <p>
     這是我的技術筆記與開發學習旅程，包含許多教學與實戰內容，期待你的加入！
+</p>
+
+<a href="https://shadowmarket.up.railway.app/" style="font-size: 20px;"><strong>Shadow Market 🌑✨</strong></a>
+
+<p>
+    一個充滿神秘色彩的 <strong>D&D 黑市</strong>，販售附魔物品、傳奇神器與稀有藥水。🏹🔮 
+    為冒險者提供沉浸式的購物與管理體驗！
+</p>
+
+<a href="https://piramid.vercel.app/" style="font-size: 20px;"><strong>Piramid 🎨🖌️</strong></a>
+
+<p>
+    <strong>Piramid</strong> 是一款專為藝術家打造的極簡風格單頁式作品集網站，🖼️🎭它展現精美畫作、委託資訊與個人介紹，搭配流暢動畫與現代化設計，打造專業形象。
 </p>
 
 <h3 style="font-size: 24px;"> 🌌 聯繫我 </h3>
