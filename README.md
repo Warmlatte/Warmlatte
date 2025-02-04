@@ -63,7 +63,7 @@ A <strong>mystical D&D black market</strong> for enchanted items, legendary arti
 <strong> 📫 Email: latte.0975582420@gmail.com</strong>
 </p>
 <p>
-<strong> 💼 LinkedIn: Zhi-Yan,Huang
+<strong> 💼 LinkedIn: <a href=" www.linkedin.com/in/latte225">Zhi-Yan,Huang(Latte)</a>
 </p>
 <p>
     👾 Discord: <a href="https://discord.gg/CKUXRD2m">Latte ☕ && Cat 🐈</a>
