@@ -59,9 +59,11 @@
 <p>
 <strong> 📫 Email: latte.0975582420@gmail.com</strong>
 </p>
+
 <p>
-<strong> 💼 LinkedIn: Zhi-Yan,Huang
+<strong> 💼 LinkedIn: <a href=" www.linkedin.com/in/latte225">黃芷妍(Latte)</a>
 </p>
+    
 <p>
     👾 Discord: <a href="https://discord.gg/CKUXRD2m">Latte ☕ && Cat 🐈</a>
 </p>
