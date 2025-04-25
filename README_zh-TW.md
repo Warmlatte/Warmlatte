@@ -42,7 +42,7 @@
     這是我的技術筆記與開發學習旅程，包含許多教學與實戰內容，期待你的加入！
 </p>
 
-<a href="https://shadowmarket.up.railway.app/" style="font-size: 20px;"><strong>Shadow Market 🌑✨</strong></a>
+<a href="https://shadowmarket.zeabur.app/" style="font-size: 20px;"><strong>Shadow Market 🌑✨</strong></a>
 
 <p>
     一個充滿神秘色彩的 <strong>D&D 黑市</strong>，販售附魔物品、傳奇神器與稀有藥水。🏹🔮 
