@@ -45,7 +45,7 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
 </p>
 
 
-<a href="https://shadowmarket.up.railway.app/" style="font-size: 20px;"><strong>Shadow Market 🌑✨</strong></a>
+<a href="https://shadowmarket.zeabur.app/" style="font-size: 20px;"><strong>Shadow Market 🌑✨</strong></a>
 
 <p>
 A <strong>mystical D&D black market</strong> for enchanted items, legendary artifacts, and rare potions. 🏹🔮 It offers an immersive shopping and management experience for adventurers.  
