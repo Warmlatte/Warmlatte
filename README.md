@@ -27,7 +27,7 @@ I am Latte, <strong>a beginner full-stack developer</strong>  who loves explorin
 
 <h3 style="font-size: 24px"> 💼 Projects </h3>
 
-<a href="https://joitogether.com/home" style="font-size: 20px;"><strong>Joitogether 🤝🌟</strong></a>
+<a href="https:///joitogether.zeabur.app/home" style="font-size: 20px;"><strong>Joitogether 🤝🌟</strong></a>
 
 <p>
    <strong>Joitogether</strong> is a platform that connects users online and at events, offering features like membership, event creation and registration, profiles, ratings, discussions, and payment integration.
