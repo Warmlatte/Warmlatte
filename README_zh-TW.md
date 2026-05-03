@@ -28,7 +28,7 @@
 
 <h3 style="font-size: 24px"> 💼 專案 </h3>
 
-<a href="https://joitogether.com/home" style="font-size: 20px;">Joitogether 🤝🌟</a>
+<a href="https:///joitogether.zeabur.app/home" style="font-size: 20px;">Joitogether 🤝🌟</a>
 
 <p>
    <strong>Joitogether</strong> 是一個連結用戶線上互動與實體活動的平臺，提供會員系統、活動創建與報名、個人檔案、評價系統、討論區以及支付整合等功能。
